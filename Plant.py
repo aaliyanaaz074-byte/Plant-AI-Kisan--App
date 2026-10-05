@@ -1,4 +1,4 @@
- import streamlit as st
+import streamlit as st
 from PIL import Image
 
 st.set_page_config(page_title="Plant AI - Kisan Super App", layout="centered")

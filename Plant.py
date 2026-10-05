@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import time
+from PIL import Image
+import numpy as np
 
 st.set_page_config(page_title="Plant AI - Kisan Super App", layout="wide")
 
